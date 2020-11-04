@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311417594494",
+    "firebase_url": "https://reactjs-meetup-d1038.firebaseio.com",
+    "project_id": "reactjs-meetup-d1038",
+    "storage_bucket": "reactjs-meetup-d1038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311417594494:android:b873384a42be9908eaee2f",
+        "android_client_info": {
+          "package_name": "com.rsvpmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311417594494-3sng7rrtbnr4582sv0fo656lholtp71q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJornBeBAtFte4vWOybChBhew62cm9Cnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311417594494-3sng7rrtbnr4582sv0fo656lholtp71q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
